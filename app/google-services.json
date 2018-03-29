@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "424905390093",
+    "firebase_url": "https://loginsignup-f5e86.firebaseio.com",
+    "project_id": "loginsignup-f5e86",
+    "storage_bucket": "loginsignup-f5e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424905390093:android:986acd485c83145b",
+        "android_client_info": {
+          "package_name": "com.example.dani.loginsignupfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424905390093-1dkht9dtrsbogp913i5dofccfmsc8nu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcbyMtPoSu1o26kdYlg7l8d_SoxrGydLM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
